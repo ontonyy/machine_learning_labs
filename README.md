@@ -1,2 +1,1 @@
-# colab_google
-Google Colab notebooks
+# Machine learning labs created in colaboratory
